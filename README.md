@@ -4,7 +4,7 @@ This is a collection of scripts to help DevOps and Systems Engineers configure t
 
 ## Information
 ### OpsCode Chef Recipes and Cookbooks
-* [Red Hat Enterprise Linux and CentOS DNS client configuration](./chef/opendns_rh_centos)
+* [Red Hat Enterprise Linux and CentOS DNS client configuration](./chef/opendns_rh_and_centos)
 * [Ubuntu DNS client configuration](./chef/opendns_ubuntu)
 * Windows DNS client configuration - Coming soon...
 
