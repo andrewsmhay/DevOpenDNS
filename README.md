@@ -4,9 +4,9 @@ This is a collection of scripts to help DevOps and Systems Engineers configure t
 
 ## Information
 ### OpsCode Chef Recipes and Cookbooks
-* [Red Hat Enterprise Linux and CentOS client configuration](./chef/opendns_rh_centos)
-* [Ubuntu client configuration](./chef/opendns_ubuntu)
-* [Ubuntu client configuration](./chef/opendns_windows)
+* [Red Hat Enterprise Linux and CentOS DNS client configuration](./chef/opendns_rh_centos)
+* [Ubuntu DNS client configuration](./chef/opendns_ubuntu)
+* [Windows DNS client configuration](./chef/opendns_windows) - Coming soon...
 
 ### Puppet Labs Modules
 * Coming soon...
@@ -23,9 +23,7 @@ Clone the repository locally or download the files from their respective directo
 
 ## Contributors
 
-Andrew Hay, Sr. Security Research Lead and Evangelist, OpenDNS, Inc.
-
-Twitter: [@andrewsmhay](http://twitter.com/andrewsmhay)
+* Andrew Hay, Sr. Security Research Lead and Evangelist, OpenDNS, Inc., [@andrewsmhay](http://twitter.com/andrewsmhay)
 
 ## License
 
