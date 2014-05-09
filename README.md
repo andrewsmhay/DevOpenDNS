@@ -7,12 +7,15 @@ This is a collection of scripts to help DevOps and Systems Engineers configure t
 * [Red Hat Enterprise Linux and CentOS client configuration](./chef/opendns_rh_centos)
 * [Ubuntu client configuration](./chef/opendns_ubuntu)
 * [Ubuntu client configuration](./chef/opendns_windows)
+
 ### Puppet Labs Modules
-here
+* Coming soon...
+
 ### SaltStack Salt State Files
-here
+* Coming soon...
+
 ### Ansible Modules
-here
+* Coming soon...
 
 ## Installation
 
