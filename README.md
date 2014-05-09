@@ -4,9 +4,9 @@ This is a collection of scripts to help DevOps and Systems Engineers configure t
 
 ## Information
 ### OpsCode Chef Recipes and Cookbooks
-* [Red Hat Enterprise Linux and CentOS client configuration](chef/opendns_rh_centos)
-* [Ubuntu client configuration](chef/opendns_ubuntu)
-* [Ubuntu client configuration](chef/opendns_windows)
+* [Red Hat Enterprise Linux and CentOS client configuration](./chef/opendns_rh_centos)
+* [Ubuntu client configuration](./chef/opendns_ubuntu)
+* [Ubuntu client configuration](./chef/opendns_windows)
 ### Puppet Labs Modules
 here
 ### SaltStack Salt State Files
